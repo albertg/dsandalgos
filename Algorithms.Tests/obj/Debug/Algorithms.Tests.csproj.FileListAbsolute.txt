@@ -1,0 +1,16 @@
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.csprojAssemblyReference.cache
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\Algorithms.Tests.dll
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\Algorithms.Tests.pdb
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\Algorithms.dll
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\Algorithms.pdb
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.csproj.CopyComplete
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.dll
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.pdb
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\Algorithms.Tests\bin\Debug\nunit.engine.api.dll

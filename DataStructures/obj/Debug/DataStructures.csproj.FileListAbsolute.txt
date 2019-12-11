@@ -1,0 +1,6 @@
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Albert\source\repos\DataStructuresAndAlgorithms\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache
