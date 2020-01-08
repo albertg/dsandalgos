@@ -51,7 +51,7 @@ namespace Algorithms.Sorting
                 right[j] = list[middle + 1 + j];
             }
 
-            int listOneIndex = 0, listTwoIndex = 0, mergedListIndex = last;
+            int listOneIndex = 0, listTwoIndex = 0, mergedListIndex = first;
 
             while(listOneIndex < sizeOfListOne && listTwoIndex < sizeOfListTwo)
             {
@@ -65,6 +65,19 @@ namespace Algorithms.Sorting
                     list[mergedListIndex] = right[listTwoIndex];
                     listTwoIndex++;
                 }
+                mergedListIndex++;
+            }
+
+            while(listOneIndex < sizeOfListOne)
+            {
+                list[mergedListIndex] = left[listOneIndex];
+                listOneIndex++;
+                mergedListIndex++;
+            }
+            while(listTwoIndex < sizeOfListTwo)
+            {
+                list[mergedListIndex] = right[listTwoIndex];
+                listTwoIndex++;
                 mergedListIndex++;
             }
         }

@@ -16,7 +16,7 @@ namespace Algorithms.Tests
         public void MergeSort_Sort_ReturnsSortedArray()
         {
             //Arrange
-            int[] unsorted = new int[] { 10, 80, 30, 90};
+            int[] unsorted = new int[] { 10, 80, 70, 30, 90, 40, 50 };
             int[] expected = new int[] { 10, 30, 40, 50, 70, 80, 90 };
 
             //Act
